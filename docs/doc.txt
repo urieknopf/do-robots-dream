@@ -1,0 +1,3 @@
+Just putting this here as a placeholder to remind myself to actually follow good documentation processes later on.
+
+Feel free to email me a screenshot of this if it exists in my repo long aftere there is functional code to remind me to do better >.<;
